@@ -43,10 +43,10 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## 💻 Program
 
 ### Developed By:
-**Name:** ____________________________  
+**Name:** Kanamarlapudi Sai Charithanjali 
 
 ### Register No:
-____________________________  
+212224240069 
 
 ---
 
